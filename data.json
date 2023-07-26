@@ -2,22 +2,57 @@
   {
     "data": [
         {
-            "name": "Tiger Nixon",
-            "artist": "System Architect",
-            "album": "Edinburgh",
-            "rating": "61"
+            "name": "Pt. 2",
+            "artist": "Kanye West",
+            "album": "Life of Pablo",
+            "rating": 8.2
           },
           {
-              "name": "Tiger Nixon",
-              "artist": "System Architect",
+              "name": "Black Skinhead",
+              "artist": "Kanye West",
               "album": "Edinburgh",
-              "rating": "61"
+              "rating": 8.0
           },
           {
-              "name": "Tiger Nixon",
-              "artist": "System Architect",
-              "album": "Edinburgh",
-              "rating": "61"
-          }
+              "name": "Famous",
+              "artist": "Kanye West",
+              "album": "Life of Pablo",
+              "rating": 8.3
+          },
+          {
+            "name": "waves",
+            "artist": "Kanye West",
+            "album": "Life of Pablo",
+            "rating": 8.3
+          
+        },
+        {
+            "name": "All of the Lights",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 8.9
+          
+        },
+        {
+            "name": "Power",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 8.7
+          
+        },
+        {
+            "name": "Off the Grid",
+            "artist": "Kanye West",
+            "album": "Donda",
+            "rating": 7.7
+          
+        },
+        {
+            "name": "Feedback",
+            "artist": "Kanye West",
+            "album": "Life of Pablo",
+            "rating": 7.9
+          
+        }
     ]
   }
