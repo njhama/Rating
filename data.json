@@ -23,7 +23,7 @@
             "name": "waves",
             "artist": "Kanye West",
             "album": "Life of Pablo",
-            "rating": 8.3
+            "rating": 8.5
           
         },
         {
@@ -52,7 +52,244 @@
             "artist": "Kanye West",
             "album": "Life of Pablo",
             "rating": 7.9
-          
+        },
+        {
+            "name": "Moon",
+            "artist": "Kanye West",
+            "album": "Donda",
+            "rating": 8.6
+        },
+        {
+            "name": "Donda Chant",
+            "artist": "Kanye West",
+            "album": "Donda",
+            "rating": 6.2
+        },
+        {
+            "name": "Hurricane",
+            "artist": "Kanye West",
+            "album": "Donda",
+            "rating": 7.7
+        },
+        {
+            "name": "Jail",
+            "artist": "Kanye West",
+            "album": "Donda",
+            "rating": 7.8
+        },
+        {
+            "name": "Praise God",
+            "artist": "Kanye West",
+            "album": "God",
+            "rating": 8.0
+        },
+        {
+            "name": "God Breathed",
+            "artist": "Kanye West",
+            "album": "Donda",
+            "rating": 8.0
+        },
+        {
+            "name": "Junya",
+            "artist": "Kanye West",
+            "album": "Donda",
+            "rating": 7.7
+        },
+        {
+            "name": "Dark Fantasy",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 8.1
+        },
+        {
+            "name": "Gorgeous",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 0
+        },
+        {
+            "name": "Devil in a new Dress",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 0
+        },
+        {
+            "name": "Runaway",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 9
+        },
+        {
+            "name": "Hell of a Life",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 0
+        },
+        {
+            "name": "Blame Game",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 8.0
+        },
+        {
+            "name": "Lost in the World",
+            "artist": "Kanye West",
+            "album": "MBDTF",
+            "rating": 0
+        },
+
+        {
+            "name": "Say You Will",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 0
+        },
+        {
+            "name": "Welcome to Heartbreak",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 0
+        },
+        {
+            "name": "Heartless",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 0
+        },
+        {
+            "name": "Amazing",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 0
+        },
+        {
+            "name": "Love Lockdown",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 0
+        },
+        {
+            "name": "Paranoid",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 0
+        },
+        {
+            "name": "Robocop",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 9
+        },
+        {
+            "name": "Street Lights",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 7.8
+        },
+        {
+            "name": "Bad News",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 7.6
+        },
+        {
+            "name": "See you in my Nightmares",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 0
+        },
+        {
+            "name": "Coldest Winter",
+            "artist": "Kanye West",
+            "album": "808s",
+            "rating": 0
+        },
+        {
+            "name": "Good Morning",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 7.9
+        },
+        {
+            "name": "I Wonder",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 9.2
+        },
+        {
+            "name": "Stronger",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 7.8
+        },
+        {
+            "name": "Champion",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 7.7
+        },
+        {
+            "name": "Good Life",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 8
+        },
+        {
+            "name": "Can't Tell Me Nothing",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 7.2
+        },
+        {
+            "name": "Barry Bonds",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 6.3
+        },
+        {
+            "name": "Drunk and Hot Girls",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 0
+        },
+        {
+            "name": "Flashing Lights",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 8
+        },
+        {
+            "name": "Everything I am",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 0
+        },
+        {
+            "name": "The Glory",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 0
+        },
+        {
+            "name": "Homecoming",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 7.8
+        },
+        {
+            "name": "Big Brother",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 8.3
+        },
+        {
+            "name": "Good Night",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "rating": 8.4
         }
+
+
+
     ]
   }
